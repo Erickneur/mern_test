@@ -1,10 +1,10 @@
-# Aplicación básica MERN (MongoDB, Express, React, Node)
+# Aplicación MERN (MongoDB, Express, React, Node)
 
 ![](https://firebasestorage.googleapis.com/v0/b/eedh-mern-test.appspot.com/o/mern.png?alt=media&token=7ec89300-78d7-4da2-8dfc-8662877af486)
 
 Este proyecto es una demostración de como realizar un frontend en React conectado a un backend en Express que utiliza una base de datos en MongoDB.
 
-- [Aplicación básica MERN (MongoDB, Express, React, Node)](#aplicación-básica-mern-mongodb-express-react-node)
+- [Aplicación MERN (MongoDB, Express, React, Node)](#aplicación-mern-mongodb-express-react-node)
 - [Funcionamiento del backend](#funcionamiento-del-backend)
 - [Funcionamiento del frontend](#funcionamiento-del-frontend)
 - [Requisitos](#requisitos)
